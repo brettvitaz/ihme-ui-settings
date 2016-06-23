@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="redis" description="Local redis instance" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true" CONNECTION_TYPE="NONE">
+    <exec>
+      <option name="COMMAND" value="$USER_HOME$/Development/redis-3.0.5/src/redis-server" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+    </exec>
+  </tool>
+</toolSet>
