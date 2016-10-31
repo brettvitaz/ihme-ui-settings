@@ -1,0 +1,19 @@
+<templateSet group="Python">
+  <template name="tabled" value="class $TABLE$(Base):&#10;    __tablename__ = '$TABLE_NAME$'&#10;    &#10;    $TABLE_NAME$_id = Column(INTEGER, primary_key=True)&#10;    name = Column(VARCHAR(24), unique=True, nullable=False)&#10;    description = Column(TEXT, nullable=False)&#10;    $END$" description="SQLAlchemy data table" toReformat="false" toShortenFQNames="true">
+    <variable name="TABLE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="TABLE_NAME" expression="snakeCase(String)" defaultValue="TABLE" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+      <option name="Python_Class" value="false" />
+    </context>
+  </template>
+  <template name="tablej" value="class $TABLE$(Base):&#10;    __tablename__ = '$TABLE_NAME$'&#10;    &#10;    $TABLE_NAME$_id = Column(INTEGER, ForeignKey($TABLE$.$TABLENAME$_id), primary_key=True, nullable=False)&#10;    $TABLE_NAME$_id = Column(INTEGER, ForeignKey($TABLE$.$TABLENAME$_id), primary_key=True, nullable=False)&#10;    $END$" description="SQLAlchemy junction table" toReformat="false" toShortenFQNames="true">
+    <variable name="TABLE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="TABLE_NAME" expression="snakeCase(String)" defaultValue="TABLE" alwaysStopAt="true" />
+    <variable name="TABLENAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+      <option name="Python_Class" value="false" />
+    </context>
+  </template>
+</templateSet>
