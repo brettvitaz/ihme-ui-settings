@@ -158,7 +158,7 @@
       <JAVADOC />
       <SOURCES />
     </library>
-    <library name="Python 2.7.12 (/anaconda/envs/smartva/bin/python2.7) interpreter library">
+    <library name="Python 2.7.12 (/anaconda/envs/smartva/bin/pythonw) interpreter library">
       <CLASSES>
         <root url="file:///anaconda/envs/smartva/lib/python2.7" />
         <root url="file:///anaconda/envs/smartva/lib/python2.7/plat-darwin" />
@@ -169,7 +169,7 @@
         <root url="file:///anaconda/envs/smartva/lib/python2.7/site-packages" />
         <root url="jar:///anaconda/envs/smartva/lib/python2.7/site-packages/setuptools-23.0.0-py2.7.egg!/" />
         <root url="file:///anaconda/envs/smartva/lib/python2.7/site-packages/wx-3.0-osx_cocoa" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2016.3/python_stubs/-1582061272" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2016.3/python_stubs/-2102202524" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
       </CLASSES>
       <JAVADOC />
@@ -183,7 +183,7 @@
         <root url="file:///anaconda/envs/smartva/lib/python2.7/site-packages" />
         <root url="jar:///anaconda/envs/smartva/lib/python2.7/site-packages/setuptools-23.0.0-py2.7.egg!/" />
         <root url="file:///anaconda/envs/smartva/lib/python2.7/site-packages/wx-3.0-osx_cocoa" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2016.3/python_stubs/-1582061272" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2016.3/python_stubs/-2102202524" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
       </SOURCES>
     </library>
