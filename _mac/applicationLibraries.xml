@@ -267,6 +267,29 @@
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
       </SOURCES>
     </library>
+    <library name="Python 3.5.1 virtualenv at ~/Development/puppy/lightning-talk-easy-api/venv interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/Development/puppy/lightning-talk-easy-api/venv/lib/python3.5" />
+        <root url="file://$USER_HOME$/Development/puppy/lightning-talk-easy-api/venv/lib/python3.5/plat-darwin" />
+        <root url="file://$USER_HOME$/Development/puppy/lightning-talk-easy-api/venv/lib/python3.5/lib-dynload" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/plat-darwin" />
+        <root url="file://$USER_HOME$/Development/puppy/lightning-talk-easy-api/venv/lib/python3.5/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2017.1/python_stubs/519256754" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/Development/puppy/lightning-talk-easy-api/venv/lib/python3.5" />
+        <root url="file://$USER_HOME$/Development/puppy/lightning-talk-easy-api/venv/lib/python3.5/plat-darwin" />
+        <root url="file://$USER_HOME$/Development/puppy/lightning-talk-easy-api/venv/lib/python3.5/lib-dynload" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/plat-darwin" />
+        <root url="file://$USER_HOME$/Development/puppy/lightning-talk-easy-api/venv/lib/python3.5/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2017.1/python_stubs/519256754" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+      </SOURCES>
+    </library>
     <library name="Python 3.5.1 virtualenv at ~/Development/temp/api-pycon2015/env interpreter library">
       <CLASSES>
         <root url="file://$USER_HOME$/Development/temp/api-pycon2015/env/lib/python3.5" />
