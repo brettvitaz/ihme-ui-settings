@@ -6,6 +6,7 @@
       <mapping ext="cfg" type="Ini" />
       <mapping ext="config" type="Ini" />
       <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
+      <mapping pattern="metadata" type="PLAIN_TEXT" />
       <mapping pattern="notes" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="old2" type="PLAIN_TEXT" />
