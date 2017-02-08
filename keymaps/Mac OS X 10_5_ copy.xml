@@ -8,6 +8,9 @@
   <action id="EditorResetFontSize">
     <keyboard-shortcut first-keystroke="ctrl meta alt 0" />
   </action>
+  <action id="Git.CheckoutRevision">
+    <keyboard-shortcut first-keystroke="meta alt k" />
+  </action>
   <action id="Git.Fetch">
     <keyboard-shortcut first-keystroke="shift meta k" second-keystroke="f" />
   </action>
