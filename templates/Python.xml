@@ -3,8 +3,8 @@
     <variable name="TABLE" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="TABLE_NAME" expression="" defaultValue="TABLE" alwaysStopAt="true" />
     <context>
-      <option name="Python_Class" value="false" />
       <option name="Python" value="true" />
+      <option name="Python_Class" value="false" />
     </context>
   </template>
   <template name="table_j" value="class $TABLE$(Base):&#10;    __tablename__ = '$TABLE_NAME$'&#10;    &#10;    $COL1_NAME$_id = Column(INTEGER, ForeignKey($FK_TABLE1$.$FK_COL1_NAME$_id), primary_key=True, nullable=False)&#10;    $COL2_NAME$_id = Column(INTEGER, ForeignKey($FK_TABLE2$.$FK_COL2_NAME$_id), primary_key=True, nullable=False)&#10;    $END$" description="SQLAlchemy junction table" toReformat="false" toShortenFQNames="true">
@@ -17,8 +17,8 @@
     <variable name="FK_TABLE2" expression="" defaultValue="TABLE" alwaysStopAt="true" />
     <variable name="FK_COL2_NAME" expression="" defaultValue="COL2_NAME" alwaysStopAt="true" />
     <context>
-      <option name="Python_Class" value="false" />
       <option name="Python" value="true" />
+      <option name="Python_Class" value="false" />
     </context>
   </template>
   <template name="column" value="$COL_NAME$ = db.Column($END$)" description="DB Column" toReformat="false" toShortenFQNames="true">
