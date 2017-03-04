@@ -332,13 +332,13 @@
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
       </SOURCES>
     </library>
-    <library name="Python 3.6.0 virtualenv at ~/Development/temp/awesomecouponapi/venv interpreter library">
+    <library name="Python 3.6.0 virtualenv at ~/envs/awesomecouponapi interpreter library">
       <CLASSES>
-        <root url="file://$USER_HOME$/Development/temp/awesomecouponapi/venv/lib/python3.6" />
-        <root url="file://$USER_HOME$/Development/temp/awesomecouponapi/venv/lib/python3.6/lib-dynload" />
+        <root url="file://$USER_HOME$/envs/awesomecouponapi/lib/python3.6" />
+        <root url="file://$USER_HOME$/envs/awesomecouponapi/lib/python3.6/lib-dynload" />
         <root url="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6" />
-        <root url="file://$USER_HOME$/Development/temp/awesomecouponapi/venv/lib/python3.6/site-packages" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2017.1/python_stubs/-1587818169" />
+        <root url="file://$USER_HOME$/envs/awesomecouponapi/lib/python3.6/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2017.1/python_stubs/-947347182" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.6" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
@@ -348,11 +348,11 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$USER_HOME$/Development/temp/awesomecouponapi/venv/lib/python3.6" />
-        <root url="file://$USER_HOME$/Development/temp/awesomecouponapi/venv/lib/python3.6/lib-dynload" />
+        <root url="file://$USER_HOME$/envs/awesomecouponapi/lib/python3.6" />
+        <root url="file://$USER_HOME$/envs/awesomecouponapi/lib/python3.6/lib-dynload" />
         <root url="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6" />
-        <root url="file://$USER_HOME$/Development/temp/awesomecouponapi/venv/lib/python3.6/site-packages" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2017.1/python_stubs/-1587818169" />
+        <root url="file://$USER_HOME$/envs/awesomecouponapi/lib/python3.6/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2017.1/python_stubs/-947347182" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.6" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
